@@ -1,3 +1,7 @@
 hello world
 wo
 who are you
+<<<<<<< HEAD
+=======
+reset now
+>>>>>>> modify HEAD^
